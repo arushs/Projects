@@ -2,7 +2,7 @@ Mega Project List
 ========
 My attempt to complete all the projects listed below in Python.
 I am doing these as an introductory to Python for myself.
-Forked from @karan/Projects.
+Forked from [karan](http://github.com/karan)/Projects.
 
 Numbers
 ---------
